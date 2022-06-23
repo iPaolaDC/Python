@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="36f28534-296d-494c-80e1-99af2e990017" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,5 +130,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
