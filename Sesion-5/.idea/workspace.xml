@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36f28534-296d-494c-80e1-99af2e990017" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-3.py" afterDir="false" />
-    </list>
+    <list default="true" id="36f28534-296d-494c-80e1-99af2e990017" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Personal/Documents/GitHub/Python/Sesion-6"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Ejercicio-3">
     <configuration name="Ejercicio-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sesion-5" />
