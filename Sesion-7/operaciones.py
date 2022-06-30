@@ -11,5 +11,5 @@ def multiplicar(a, b):
 
 
 def dividir(a, b):
-    return a / b
+    return round(a / b)
 

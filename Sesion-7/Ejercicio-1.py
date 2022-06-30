@@ -3,11 +3,8 @@ import operaciones
 
 def calculador():
 
-    a = input("Ingresa el primer número:")
-    b = input("ingresa el segundo número:")
-
-    a = int(a)
-    b = int(b)
+    a: int = int(input("Ingresa el primer número:"))
+    b: int = int(input("ingresa el segundo número:"))
 
     res_suma = operaciones.suma(a, b)
     res_resta = operaciones.resta(a, b)
