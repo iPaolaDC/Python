@@ -12,12 +12,12 @@ for x in range(rango):
     lista.append(numeros)
 
 # filtramos los numeros pares
-pares = filter(lambda a: a % 2 == 0, lista)
+impares = filter(lambda a: a % 2, lista)
 
 # hacemos la suma
-pares = list(pares)
-suma = reduce(lambda a, b: a + b, pares)
+impares = list(impares)
+suma = reduce(lambda a, b: a + b, impares)
 
 # imprimimos el valor
-print("la lista de los numero pares es: ", pares)
-print("la suma de todos los pares es : ", suma)
+print("la lista de los numero impares es: ", impares)
+print("la suma de todos los impares es : ", suma)
